@@ -15,11 +15,7 @@ The NCS dataset contains a total of 5,620 test items for English, and 3,600 for 
 
 The Noun Compounds Senses dataset will be presented at EACL 2021:
 
-```
-Garcia, Marcos, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart, Aline Villavicencio. 2021.
-Probing for idiomaticity in vector space models. In _Proceedings of the 16th Conference of the
-European Chapter of the Association for Computational Linguistics (EACL 2021)_ (forthcoming).
-```
+  * Garcia, Marcos, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart, Aline Villavicencio. 2021. Probing for idiomaticity in vector space models. In _Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)_ (forthcoming).
 
 ## References
 Cordeiro, Silvio, Aline Villavicencio, Marco Idiart, and Carlos Ramisch. 2019. Unsupervised compositionality prediction of nominal compounds. _Computational Linguistics_, 45(1):1–57.
