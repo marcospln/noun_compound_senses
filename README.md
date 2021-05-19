@@ -15,10 +15,6 @@ For all sentences in naturalistic and neutral contexts the dataset includes thre
 
 The NCS dataset contains a total of 5,620 test items for English, and 3,600 for Portuguese, and it is based on the NC Compositionality dataset (Cordeiro _et al._, 2019; Reddy _et al_., 2011).
 
-If you use the Noun Compounds Senses dataset, please cite the following paper:
-
-  * Garcia, Marcos, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart and Aline Villavicencio. 2021. Probing for idiomaticity in vector space models. In _Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)_. Association for Computational Linguistics.
-
 ## Obtaining the sentences
 
 ### Requirements
@@ -35,6 +31,11 @@ Use the script `get_sentences.py` to obtain the sentences from the WaC corpora:
 `python3 get_sentences.py --lang pt --corpus brwac.conll`
 
 This should create the `original_sents.csv` files inside `dataset/lang/naturalistic/`.
+
+## Citation
+If you use the Noun Compounds Senses dataset, please cite the following paper:
+
+  * Garcia, Marcos, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart and Aline Villavicencio. 2021. Probing for idiomaticity in vector space models. In _Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)_. Association for Computational Linguistics.
 
 ## References
 Baroni, Marco, Silvia Bernardini, Adriano Ferraresi and Eros Zanchetta. 2009. The WaCky wide web: a collection of very large linguistically processed web-crawled corpora. _Language resources and evaluation_, 43(3), 209-226.
