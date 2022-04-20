@@ -8,7 +8,7 @@ import os.path
 from argparse import ArgumentParser
 import pandas as pd
 
-from data.utils import read_data, read_en_corpus, read_pt_corpus
+from input.utils import read_data, read_en_corpus, read_pt_corpus
 
 arg_parser = ArgumentParser(
     description='This script generates the files with the original sentences of the NCS datasets. It requires the ukWaC and/or brWaC corpora to get the sentences with copyright from them.'
